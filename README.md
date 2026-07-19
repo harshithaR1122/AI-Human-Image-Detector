@@ -16,6 +16,7 @@ With the rapid growth of AI-generated images, distinguishing between real and sy
 - AI-generated vs Real image classification
 - Confidence score prediction
 - Interactive Streamlit web interface
+- Real-time image prediction
 - Cloud deployment using Render
 
 ## Technologies Used
@@ -31,12 +32,15 @@ With the rapid growth of AI-generated images, distinguishing between real and sy
 ## Screenshots
 
 ### Application Interface
+
 ![App Homepage](app_homepage.png)
 
 ### Real Image Prediction
+
 ![Real Image Prediction](real_image_prediction.png)
 
 ### AI Generated Image Prediction
+
 ![AI Prediction](ai_prediction.png)
 
 ## Project Structure
